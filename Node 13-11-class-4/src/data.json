@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Wireless Earbuds",
+    "category": "Electronics",
+    "brand": "SoundWave",
+    "price_usd": 39.99
+  },
+  {
+    "id": 2,
+    "name": "Luma LED Desk Lamp",
+    "category": "Home",
+    "brand": "BrightHome",
+    "price_usd": 24.5
+  },
+  {
+    "id": 3,
+    "name": " Running Shoes",
+    "category": "Fot",
+    "brand": "Fit",
+    "price_usd": 6955
+  },
+  {
+    "id": 3,
+    "brand": "lamborghani",
+    "price": 982.589
+  },
+  {
+    "id": 4,
+    "brand": "bugati",
+    "price": 552.589
+  }
+]
